@@ -23,5 +23,5 @@ REMEMBER: you need run first the CMD of steam, to try logout and save the Steam 
 
 # Example of use
 ```
-D:\ConsoleGPlayAPITool.exe D:\my-config-file.txt
+D:\SteamConsoleUploader.exe D:\my-config-file.txt
 ```
