@@ -3,7 +3,7 @@ A C# Console to run SteamSDK and autoupload a build to Steam Store. (Teamcity)
 
 # Use cases
 
-run console passing a file with content:
+run console passing a file  path with this content:
 
 ```
 system.umake.steam.buildscript=<VDF Steam Script Path>
@@ -20,3 +20,8 @@ system.umake.buildpath=<Game Build path>
 ```
 
 REMEMBER: you need run first the CMD of steam, to try logout and save the Steam Guard access.
+
+# Example of use
+```
+D:\ConsoleGPlayAPITool.exe D:\my-config-file.txt
+```
